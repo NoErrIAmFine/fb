@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dma-mapping.h": "c",
+        "pm_runtime.h": "c"
+    }
+}
